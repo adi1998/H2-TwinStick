@@ -7,7 +7,7 @@ namespace = "zerp"
 name = "TwinStick"
 versionNumber = "0.0.1"
 description = "Adds twin stick controls for controller."
-websiteUrl = "https://github.com/adi1998/H2-OopsAllChaos"
+websiteUrl = "https://github.com/adi1998/H2-TwinStick"
 containsNsfwContent = false
 
 [package.dependencies]
