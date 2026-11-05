@@ -1,0 +1,26 @@
+# For files used only by a symlink to the ReturnOfModding plugins folder
+/src/LICENSE
+/src/icon.png
+/src/manifest.json
+/src/CHANGELOG.md
+/src/README.md
+/src/mm_v2_manifest.json
+
+# For source files used to build packages
+/packages
+
+# For build artifacts created by the Thunderstore CLI
+/build
+# For the Thunderstore CLI executable itself, if you include it in your root folder
+tcli.exe
+
+# ignore unpacked package contents
+/data/zerp-WeaponFusion
+
+*.psd
+*.spec
+*.exe
+
+**/__pycache__/
+
+/icons_workspace/frames/
