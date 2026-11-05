@@ -1,8 +1,6 @@
 ## Twin Stick Controls
 
-Adds twin stick controls for controller. If auto-aim is on in the game settings it'll only be active if right stick has no input.
-
-I've only tested this with one controller on Steam.
+Adds twin stick controls for controller, allowing you to aim attacks with the right stick. If auto-aim is on in the game settings it'll only be active if right stick has no input.
 
 ## Installation
 
